@@ -18,6 +18,11 @@
     object-position: center;
 }
 
+main{
+    min-height: 93vh;
+}
+
+
 #services-section>div {
     clip-path: polygon(0 9%, 100% 0, 100% 90%, 0% 100%);
     background: rgb(255, 43, 1);
